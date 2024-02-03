@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently WORKING on an empty project(i m a normal person,U R all ugly freak like wittgenstein)👯 Also,I have another account Awxipyz<br>🌱 I love pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br>⚡ if U want to see what i drew in pixel art Funny cartoon,U can visit https://www.pixilart.com/arisk/gallery
+🔭 I’m currently WORKING on an empty project(i m a normal person,U R all ugly freak like wittgenstein.Anyway,U guys might to happy to see i ve done nothing,but on the opposite this is a huge misunderstanding)👯 Also,I have another account Awxipyz<br>🌱 I love pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br>⚡ if U want to see what i drew in pixel art Funny cartoon,U can visit https://www.pixilart.com/arisk/gallery ChatGPT link is here:https://chatglm.cn/
 
 
 ## 🌐 Socials:
