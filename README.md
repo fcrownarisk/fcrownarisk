@@ -1,9 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently WORKING on an empty project👯 Also,I have another account Awxipyz<br>🌱 I love pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br>⚡ if U want to see what i drew in pixel art Funny cartoon,U can visit https://www.pixilart.com/arisk/gallery ChatGPT link is here:https://chatglm.cn/ My Farovite:![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/ef19668f-2b26-4dcb-9af8-8ad32e2754c0)
 ![R](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/17746758-0921-4b2e-9837-21d2c27cc063)![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5decc66e-86f8-4930-b9ba-d704849c13a1)![com jetbrains IntelliJ-IDEA-Ultimate](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/74ba33ba-6d13-4606-bac0-4d431cdf9b96)![R](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/54472cfd-7631-4c9f-b9e8-0ab8ab20e9ee)
+# Game type I love
+![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/14e0445a-cf6c-47b6-8e34-1b1deed2b7e1)![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/302db8c7-bb45-43b5-974f-a8f8fbecf7fd)![R](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/19cdc32d-4abe-4ac7-bcd3-2c3b5e862ddf)
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Flames-Cursed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
 
 # 💻 Tech Stack:
