@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently WORKING on an empty project👯 Also,I have another account Awxipyz<br>🌱 I love pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br>⚡ if U want to see what i drew in pixel art Funny cartoon,U can visit https://www.pixilart.com/arisk/gallery ChatGPT link is here:https://chatglm.cn/ My Farovite:
+🔭 I’m currently WORKING on an empty project👯 Also,I have another account Awxipyz<br>🌱 I love pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br>⚡ if U want to see what i drew in pixel art Funny cartoon,U can visit https://www.pixilart.com/arisk/gallery ChatGPT link is here:https://chatglm.cn/ My Farovite:![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/ef19668f-2b26-4dcb-9af8-8ad32e2754c0)
+
 ## 🌐 Socials:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Flames-Cursed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
 
