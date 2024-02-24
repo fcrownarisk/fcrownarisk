@@ -4,9 +4,9 @@
 
 # Game type I love
 ![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/14e0445a-cf6c-47b6-8e34-1b1deed2b7e1)![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/302db8c7-bb45-43b5-974f-a8f8fbecf7fd)![R](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/19cdc32d-4abe-4ac7-bcd3-2c3b5e862ddf)![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/46ea1994-91c2-43e0-98f6-dd3737ffe43b)
-#I mostly interested in Fallout GAME series,since I get in touch with Fallout3 and Fallout:News Vegas,i was fansinated.
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/07e784d8-c5b4-4626-a86a-ed2172be77e7)
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e076aed8-72ec-4b10-baff-65e35fa62929)
+#I mostly interested in Fallout GAME series,since I get in touch with Fallout3 and Fallout:News Vegas,i was fansinated.
 
 # 🌐 Socials:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Flames-Cursed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
