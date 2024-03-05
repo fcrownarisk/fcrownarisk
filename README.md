@@ -7,7 +7,7 @@
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/07e784d8-c5b4-4626-a86a-ed2172be77e7)
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e076aed8-72ec-4b10-baff-65e35fa62929)<br>
 #I mostly interested in Fallout GAME series,since I get in touch with Fallout3 and Fallout:News Vegas,i was fansinated.
-
+#Mr.fermat's bilibili space:https://space.bilibili.com/10731150
 # 🌐 Socials:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Flames-Cursed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
 
