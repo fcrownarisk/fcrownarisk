@@ -12,8 +12,13 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Flames-Cursed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=plastic&logo=deno&logoColor=white)  ![PUPPET](https://img.shields.io/badge/Puppet-02303A.svg?style=plastic&logo=Puppet&logoColor=white&color=%23FFAE1A) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=plastic&logoas=homebridge&logoColor=white)  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
-# 📊 GitHub Stats:
+![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8d5ac18f-bb5f-4e6f-9a48-1be009232ab9)
+[TS](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/3b3ef663-519c-4bd4-9078-ae8721a3cb3e)
+![javascript-logo-1-3348189361](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8175e1ea-d9b5-435f-b5ac-773f8166dea7)
+![th-3452587618](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e61cccf9-8e9d-49a6-857b-a7176153b57d)
+
+# 📊 GitHub Stats:!
+
 ![](https://github-readme-stats.vercel.app/api?username=fcrownarisk&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fcrownarisk&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrownarisk&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
