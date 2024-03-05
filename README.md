@@ -15,7 +15,8 @@
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8d5ac18f-bb5f-4e6f-9a48-1be009232ab9)
 [TS](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/3b3ef663-519c-4bd4-9078-ae8721a3cb3e)
 ![javascript-logo-1-3348189361](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8175e1ea-d9b5-435f-b5ac-773f8166dea7)
-![th-3452587618](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e61cccf9-8e9d-49a6-857b-a7176153b57d)
+![TS](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/217a19c1-1d42-4672-965f-993563b38472)
+
 
 # 📊 GitHub Stats:!
 
