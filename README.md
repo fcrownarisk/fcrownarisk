@@ -8,12 +8,7 @@
 
 # 💻 Tech Stack:
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8d5ac18f-bb5f-4e6f-9a48-1be009232ab9)
-![TS](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/3b3ef663-519c-4bd4-9078-ae8721a3cb3e)
-![javascript-logo-1-3348189361](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8175e1ea-d9b5-435f-b5ac-773f8166dea7)
-
-
 # 📊 GitHub Stats:!
-
 ![](https://github-readme-stats.vercel.app/api?username=fcrownarisk&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fcrownarisk&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrownarisk&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
