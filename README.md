@@ -1,5 +1,5 @@
 # 💫 What am I doing and my personal information:
-🔭 I’m building a web<br>👯 Also,I have another account Awxipyz<br>🌱 I love pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br>⚡ if U want to see what i drew in pixel art Funny cartoon,U can visit https://www.pixilart.com/arisk/gallery ChatGPT link is here:https://chatglm.cn/ My Farovite:![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/ef19668f-2b26-4dcb-9af8-8ad32e2754c0)
+🌱 I love pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br>⚡ if U want to see what i drew in pixel art Funny cartoon,U can visit https://www.pixilart.com/arisk/gallery ChatGPT link is here:https://chatglm.cn/ My Farovite:![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/ef19668f-2b26-4dcb-9af8-8ad32e2754c0)
 ![R](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/17746758-0921-4b2e-9837-21d2c27cc063)![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5decc66e-86f8-4930-b9ba-d704849c13a1)![com jetbrains IntelliJ-IDEA-Ultimate](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/74ba33ba-6d13-4606-bac0-4d431cdf9b96)![R](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/54472cfd-7631-4c9f-b9e8-0ab8ab20e9ee)
 
 # Game sort I play
