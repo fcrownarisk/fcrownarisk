@@ -2,9 +2,8 @@
 🌱 I dislike pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br> My Farovite COde Editor:
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)
 ![Neovim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5544f19b-c4ad-4ff4-98e6-27106d181344)
-![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/91e7a35a-c553-4f3b-818d-6002585eeb9e)
-
-
+![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/2f311248-1005-4f88-ba1b-935a00d71b6a)
+![Webstorm](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/fc8e5717-64cf-40c6-8297-293885a7db2e)
 #I mostly interested in Fallout GAME series,since I get in touch with Fallout3 and Fallout:News Vegas,i was fansinated.<br>
 # 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
