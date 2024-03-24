@@ -1,6 +1,5 @@
 # 💫 What am I doing and my personal information:
 🌱 I dislike pure C,compelete Java and Blue TypeScript<br>
-💬 U can Ask me about C language,Python and Java(but not mojo)<br> 
 My Farovite Code Editor and Compiler:
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)
 ![Neovim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5544f19b-c4ad-4ff4-98e6-27106d181344)
@@ -11,7 +10,7 @@ My Farovite Code Editor and Compiler:
 
 # 💻 Tech Stack:
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8d5ac18f-bb5f-4e6f-9a48-1be009232ab9)
-#Which Operating System is MyFavorite as is follow
+# Which Operating System is MyFavorite as is follow
 # 📊 GitHub Stats:!
 ![](https://github-readme-stats.vercel.app/api?username=fcrownarisk&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fcrownarisk&theme=calm&hide_border=false)<br/>
