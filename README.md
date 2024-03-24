@@ -4,7 +4,7 @@
 
 #I mostly interested in Fallout GAME series,since I get in touch with Fallout3 and Fallout:News Vegas,i was fansinated.<br>
 # 🌐 Socials:
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Flames-Cursed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
 
 # 💻 Tech Stack:
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8d5ac18f-bb5f-4e6f-9a48-1be009232ab9)
