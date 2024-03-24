@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/flames66276)
 # 💻 Tech Stack:
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8d5ac18f-bb5f-4e6f-9a48-1be009232ab9)
-
+#Which Operating System is MyFavorite as is follow
 # 📊 GitHub Stats:!
 ![](https://github-readme-stats.vercel.app/api?username=fcrownarisk&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fcrownarisk&theme=calm&hide_border=false)<br/>
