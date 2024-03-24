@@ -1,6 +1,7 @@
 # 💫 What am I doing and my personal information:
 🌱 I dislike pure C,compelete Java and Blue TypeScript<br>💬 U can Ask me about C language,Python and Java(but not mojo)<br> My Farovite:!
-![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)![Vim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/64a676e8-a234-4fdc-a5d3-cc6bc6fef64f)
+![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)
+![Neovim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5544f19b-c4ad-4ff4-98e6-27106d181344)
 ![R](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/17746758-0921-4b2e-9837-21d2c27cc063)![OIP](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5decc66e-86f8-4930-b9ba-d704849c13a1)![com jetbrains IntelliJ-IDEA-Ultimate](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/74ba33ba-6d13-4606-bac0-4d431cdf9b96)![R](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/54472cfd-7631-4c9f-b9e8-0ab8ab20e9ee)
 
 #I mostly interested in Fallout GAME series,since I get in touch with Fallout3 and Fallout:News Vegas,i was fansinated.<br>
