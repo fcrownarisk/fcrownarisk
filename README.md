@@ -20,4 +20,5 @@ My Farovite Code Editor and Compiler:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400;"/>
-
+#TIMing FOR different programming language
+[![wakatime](https://wakatime.com/badge/user/fe319486-f277-4f0b-8ab5-0d36b7f066ea.svg?style=for-the-badge)](https://wakatime.com/@fe319486-f277-4f0b-8ab5-0d36b7f066ea) 
