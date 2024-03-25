@@ -1,5 +1,3 @@
-# 💫 my personal information:
-🌱 I dislike pure C,compelete Java and Blue TypeScript<br>
 My Farovite Code Editor and Compiler:
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)
 ![Neovim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5544f19b-c4ad-4ff4-98e6-27106d181344)
@@ -20,4 +18,3 @@ My Farovite Code Editor and Compiler:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400;"/>
-#TIMing FOR different programming language
