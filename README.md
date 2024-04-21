@@ -1,3 +1,6 @@
+# Actually I mostly use python on ubuntu , Write typescript code on win10,Also apply Java on macOS
+#(simple reason: because I don't have a macbook or even mac mini) 
+#爱发电个人账号：https://afdian.net/message/27f7cea2370d11e8ae8852540025c377
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)
 ![Neovim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5544f19b-c4ad-4ff4-98e6-27106d181344)
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/2f311248-1005-4f88-ba1b-935a00d71b6a)
@@ -9,4 +12,5 @@
 # 😅Which Operating System is My Favorite😶
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/79b39663-afdc-4db7-aed4-8daae20be56d)
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/a9329966-503d-4c00-81cc-16b5a06b66b3)
+
 # another account🗺️ neovimivoen🧭🗾
