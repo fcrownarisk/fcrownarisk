@@ -1,6 +1,6 @@
 # Actually I mostly use python on ubuntu , Write typescript code on win10,Also apply Java on macOS
 #(simple reason: because I don't have a macbook or even mac mini) 
-#爱发电个人账号：https://afdian.net/message/27f7cea2370d11e8ae8852540025c377
+#爱发电个人账号：https://afdian.net/
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)
 ![Neovim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5544f19b-c4ad-4ff4-98e6-27106d181344)
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/2f311248-1005-4f88-ba1b-935a00d71b6a)
