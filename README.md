@@ -20,5 +20,4 @@
 ![halflife](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/48729f3d-447a-4a4c-b889-cea158e3945c) <br>
 ![halflife2](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/206e1217-8e70-467c-b321-76b89b368f22) <br>
 ![谐振子](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/d716ba58-fe7a-4ae8-9aee-14417a5c279b) <br>
-#harmonic oscillator
 ![end](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8f841138-62a0-4c21-8fd2-9f181d5c6dc1)
