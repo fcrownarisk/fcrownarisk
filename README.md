@@ -1,4 +1,3 @@
-# Actually I mostly use python on ubuntu , Write typescript code on win10,Also apply Java on macOS <br>  
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)
 ![Neovim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5544f19b-c4ad-4ff4-98e6-27106d181344)
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/2f311248-1005-4f88-ba1b-935a00d71b6a)
