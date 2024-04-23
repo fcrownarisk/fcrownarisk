@@ -12,5 +12,5 @@
 # 😅Which Operating System is My Favorite😶
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/79b39663-afdc-4db7-aed4-8daae20be56d)
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/a9329966-503d-4c00-81cc-16b5a06b66b3)
-
 # another account🗺️ neovimivoen🧭🗾
+**Game and programing skill summary**
