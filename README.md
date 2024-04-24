@@ -11,5 +11,3 @@
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/a9329966-503d-4c00-81cc-16b5a06b66b3)
 # another account🗺️ neovimivoen🧭🗾
 **Game and programing skill summary** <br>
-![outsider](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/185bd108-edfa-499b-a897-41a8643fbb5d) <br>
-![icon](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/3ead5158-1d05-40cd-bd24-cb2bfb569ed8) <br>
