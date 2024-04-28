@@ -13,5 +13,8 @@
 # another account🗺️ neovimivoen🧭
 ![Screenshot from 2024-04-28 17-06-13](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/0d7a7528-97e4-4eba-8833-030c08ffdde1)
 ![9981](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/07ea4f6c-8593-4e8a-9e4b-4d7680b60d0b)
+![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/284edb28-32af-4f90-8335-feed6b90a7e1)
+![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/b2226398-5932-4cd1-ba46-08064f24ce39)
+
 
 
