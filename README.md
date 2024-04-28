@@ -11,3 +11,5 @@
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/a9329966-503d-4c00-81cc-16b5a06b66b3)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrownarisk)
 # another account🗺️ neovimivoen🧭
+![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/6e7d8b76-4f14-4521-87b8-e339c239646e)
+![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/999c33c6-e262-4ff5-b9f8-ea256fb945cc)
