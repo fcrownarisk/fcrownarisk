@@ -1,13 +1,3 @@
-![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/e7965675-be89-4aea-ac44-ff7ec5228d58)
-![Neovim](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/5544f19b-c4ad-4ff4-98e6-27106d181344)
-![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/2f311248-1005-4f88-ba1b-935a00d71b6a)
-![Webstorm](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/fc8e5717-64cf-40c6-8297-293885a7db2e)
-# 🌐 Socials:
-![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
-# 💻 Tech Stack:
-![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/8d5ac18f-bb5f-4e6f-9a48-1be009232ab9)
-# 😅Which Operating System is My Favorite😶
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrownarisk)
 <img width="413" alt="NP" src="https://github.com/fcrownarisk/fcrownarisk/assets/155938693/6834fdcf-4e71-4ada-b8b1-d79e5a4439a7">
 <img width="348" alt="klein" src="https://github.com/fcrownarisk/fcrownarisk/assets/155938693/62d6d16b-87b0-4a23-ac67-40691fd0d5f3">
 <img width="1122" alt="cachyos" src="https://github.com/fcrownarisk/fcrownarisk/assets/155938693/dc1af444-9574-4ea1-af4c-1a47fea4f645">
