@@ -6,3 +6,4 @@ MeanWhile,I develop a single mind about myself to improve my life and save time.
 ![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/70ae494d-4dc9-4640-a567-74baff6d8a7d)
 ![JS](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/440da494-abb4-4a96-8fce-9a7d1ea5c44a)
 ![java](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/0fe7044e-b827-40d8-b298-ef3b82abe3cc)
+![python](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/a82d1c2f-207a-4787-8396-a2fdd4f20324)
