@@ -1,4 +1,4 @@
-<img width="89" alt="DS" src="https://github.com/fcrownarisk/fcrownarisk/assets/155938693/c35d0e1b-2497-4930-8545-968c3d5a8a11">![image](https://github.com/fcrownarisk/fcrownarisk/assets/155938693/25ed2b65-a6b0-4b31-a9f5-0a51678665ce)# Hi there 👋
+# Hi there 👋
 My name is hhh,I feel like to become a normal person to do daily task with sharp skill.
 And also,I love to foresee the bright incoming future.
 MeanWhile,I develop a single mind about something meaningful to improve my life and save time.
