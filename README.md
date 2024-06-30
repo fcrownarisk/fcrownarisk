@@ -13,4 +13,5 @@ MeanWhile,I develop a single mind about something meaningful to improve my life 
 <img width="206" alt="mojo" src="https://github.com/fcrownarisk/fcrownarisk/assets/155938693/48945d01-4d32-47e9-b911-c7c67e2ca4ec">
 # My Favorite Game
 <img width="89" alt="DS" src="https://github.com/fcrownarisk/fcrownarisk/assets/155938693/f7e6640d-4419-4108-b7d6-faa2ec1aade2">
+
 # Main Skill
