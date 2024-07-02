@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is fcrownarisk,I feel like to become a normal person to do daily task with sharp skill.
-Also,I love to foresee the bright incoming future.
+Also,I love to see the bright incoming future.
 MeanWhile,I develop a single mind about something meaningful to improve my life and save time.
 # gitlab 
 <img width="42" alt="gitlab" src="https://github.com/fcrownarisk/fcrownarisk/assets/155938693/939c8387-1bc7-4977-b143-3ec229ab95ed">
