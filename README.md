@@ -1,3 +1,3 @@
 ## 👋
-My youtube channel:
+My channel:
 https://www.youtube.com/@fcrownarisk
